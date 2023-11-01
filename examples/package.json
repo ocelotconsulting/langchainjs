@@ -45,7 +45,7 @@
     "js-yaml": "^4.1.0",
     "langchain": "workspace:*",
     "ml-distance": "^4.0.0",
-    "mongodb": "^5.2.0",
+    "mongodb": "^5.8.0",
     "pickleparser": "^0.1.0",
     "prisma": "^4.11.0",
     "redis": "^4.6.6",
