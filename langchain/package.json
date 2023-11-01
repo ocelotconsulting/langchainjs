@@ -600,7 +600,7 @@
     "faiss-node": "^0.2.1",
     "firebase-admin": "^11.9.0",
     "google-auth-library": "^8.9.0",
-    "graphql": "^16.6.0",
+    "graphql": "^16.8.1",
     "hnswlib-node": "^1.4.2",
     "html-to-text": "^9.0.5",
     "ignore": "^5.2.0",
